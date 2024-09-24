@@ -1,0 +1,15 @@
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\bin\Debug\net8.0\AuthServer.Data.deps.json
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\bin\Debug\net8.0\AuthServer.Data.dll
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\bin\Debug\net8.0\AuthServer.Data.pdb
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\bin\Debug\net8.0\AuthServer.Domain.dll
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\bin\Debug\net8.0\AuthServer.Domain.pdb
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServer.Data.csproj.AssemblyReference.cache
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServer.Data.AssemblyInfoInputs.cache
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServer.Data.AssemblyInfo.cs
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServ.02C18B2A.Up2Date
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServer.Data.dll
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\refint\AuthServer.Data.dll
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\AuthServer.Data.pdb
+C:\Users\Akif\Desktop\JWTProject\AuthServer\AuthServer.Data\obj\Debug\net8.0\ref\AuthServer.Data.dll
